@@ -1,0 +1,240 @@
+#File written by LIBRIZOMUV. Compilation :Oct 10 2018,19:05:57
+mtllib lowpoly:mtl
+#begin vertices
+v -0.5 0 4
+v -0.5 4 4
+v -0.5 0 -4
+v -0.5 4 -4
+v 0.5 0 4
+v 0.5 4 4
+v 0.5 0 -4
+v 0.5 4 -4
+v -0.5 0.6 4
+v -0.5 0.6 -4
+v 0.5 0.6 -4
+v 0.5 0.6 4
+v -0.5 0.79766 4
+v -0.5 0.79766 -4
+v 0.5 0.79766 -4
+v 0.5 0.79766 4
+v -0.59518 0.48 -4
+v -0.501213 0.36 -4
+v -0.501213 0.24 -4
+v -0.59518 0.12 -4
+v 0.59518 0.48 -4
+v 0.501213 0.36 -4
+v 0.501213 0.24 -4
+v 0.59518 0.12 -4
+v 0.59518 0.48 4
+v 0.501213 0.36 4
+v 0.501213 0.24 4
+v 0.59518 0.12 4
+v -0.59518 0.12 4
+v -0.501213 0.24 4
+v -0.501213 0.36 4
+v -0.59518 0.48 4
+v -0.5 1.119918 4
+v -0.5 1.119918 -4
+v 0.5 1.119918 -4
+v 0.5 1.119918 4
+v -0.59913 1.119918 -4
+v -0.59913 0.79766 -4
+v 0.59913 1.119918 -4
+v 0.59913 0.79766 -4
+v 0.59913 1.119918 4
+v 0.59913 0.79766 4
+v -0.59913 0.79766 4
+v -0.59913 1.119918 4
+#end vertices
+
+#begin 114 textures vertices 
+vt 0.6302825 0.001953125 0
+vt 0.001953125 0.6283635 0
+vt 0.6302825 0.6283635 0
+vt 0.001953125 0.001953125 0
+vt 0.5519812 0.001953125 0
+vt 0.2339962 0.001953125 0
+vt 0.5519812 0.6283635 0
+vt 0.8767645 0.001953125 0
+vt 0.8743847 0.672444 0
+vt 0.8000163 0.2686294 0
+vt 0.7307479 0.6283635 0
+vt 0.7960834 0.672444 0
+vt 0.8743847 0.656967 0
+vt 0.7999261 0.2531526 0
+vt 0.7152708 0.6283635 0
+vt 0.7960834 0.656967 0
+vt 0.7926185 0.2780689 0
+vt 0.6773273 0.001953125 0
+vt 0.6867234 0.001953125 0
+vt 0.6986576 0.001953125 0
+vt 0.7427408 0.6283635 0
+vt 0.8785208 0.2869645 0
+vt 0.8785756 0.2963605 0
+vt 0.885988 0.3057136 0
+vt 0.7886307 0.6818402 0
+vt 0.754675 0.001953125 0
+vt 0.7640711 0.001953125 0
+vt 0.7760053 0.001953125 0
+vt 0.6986576 0.6283635 0
+vt 0.6867234 0.6283635 0
+vt 0.6773273 0.6283635 0
+vt 0.8818374 0.6818402 0
+vt 0.2274673 0.6283635 0
+vt 0.2274673 0.001953125 0
+vt 0.878079 0.2274635 0
+vt 0.4595104 0.001953125 0
+vt 0.9851556 0.001953125 0
+vt 0.9467646 0.001953125 0
+vt 0.9166849 0.001953125 0
+vt 0.951611 0.6283635 0
+vt 0.9166849 0.6283635 0
+vt 0.951611 0.001953125 0
+vt 0.9467646 0.6283635 0
+vt 0.9851556 0.6283635 0
+vt 0.8914517 0.6283635 0
+vt 0.7883214 0.656967 0
+vt 0.8743847 0.4062196 0
+vt 0.5443406 0.6283635 0
+vt 0.7997791 0.2279199 0
+vt 0.8003805 0.3189795 0
+vt 0.9773936 0.001953125 0
+vt 0.9773936 0.6283635 0
+vt 0.8743847 0.6317338 0
+vt 0.7960834 0.6317338 0
+vt 0.9980469 0.6283635 0
+vt 0.5443406 0.001953125 0
+vt 0.7984646 0.002409526 0
+vt 0.2339962 0.6283635 0
+vt 0.4660393 0.001953125 0
+vt 0.4595104 0.6283635 0
+vt 0.9980469 0.001953125 0
+vt 0.4660393 0.6283635 0
+vt 0.7960834 0.4062196 0
+vt 0.7152708 0.001953125 0
+vt 0.959373 0.001953125 0
+vt 0.8782261 0.2526962 0
+vt 0.959373 0.6283635 0
+vt 0.8914517 0.001953125 0
+vt 0.885988 0.252651 0
+vt 0.8858409 0.2274182 0
+vt 0.9902849 0.001953125 0
+vt 0.7883214 0.6317338 0
+vt 0.9902849 0.6283635 0
+vt 0.7307479 0.001953125 0
+vt 0.8783163 0.268173 0
+vt 0.6534002 0.001953125 0
+vt 0.6379231 0.001953125 0
+vt 0.8003805 0.3442127 0
+vt 0.9645023 0.6283635 0
+vt 0.9645023 0.001953125 0
+vt 0.6379231 0.6283635 0
+vt 0.6534002 0.6283635 0
+vt 0.6653931 0.001953125 0
+vt 0.6653931 0.6283635 0
+vt 0.7427408 0.001953125 0
+vt 0.8744797 0.6912364 0
+vt 0.7959885 0.6912364 0
+vt 0.8858237 0.2775256 0
+vt 0.754675 0.6283635 0
+vt 0.8000309 0.287422 0
+vt 0.7640711 0.6283635 0
+vt 0.8000857 0.296818 0
+vt 0.8744797 0.7006325 0
+vt 0.7927828 0.3062568 0
+vt 0.8818374 0.7100287 0
+vt 0.7959885 0.7006325 0
+vt 0.7886307 0.7100287 0
+vt 0.7760053 0.6283635 0
+vt 0.7879982 0.001953125 0
+vt 0.7960834 0.7194248 0
+vt 0.8785902 0.315153 0
+vt 0.7879982 0.6283635 0
+vt 0.7106505 0.001953125 0
+vt 0.8002902 0.3156094 0
+vt 0.8743847 0.7194248 0
+vt 0.7106505 0.6283635 0
+vt 0.7926185 0.3442127 0
+vt 0.9722643 0.6283635 0
+vt 0.8821467 0.656967 0
+vt 0.9722643 0.001953125 0
+vt 0.9215314 0.6283635 0
+vt 0.8821467 0.6317338 0
+vt 0.9215314 0.001953125 0
+vt 0.7926185 0.3189795 0
+#end 114 textures vertices 
+
+#begin 14 normals 
+vn -1 0 0
+vn 0 0 -1
+vn 1 0 0
+vn 0 0 1
+vn 0 -1 0
+vn 0 1 0
+vn 0.7835 0.6214 0
+vn -0.7835 0.6214 0
+vn -0.7835 -0.6214 0
+vn -0.7873 0.6165 0
+vn -0.7873 -0.6165 0
+vn 0.7835 -0.6214 0
+vn 0.7873 0.6165 0
+vn 0.7873 -0.6165 0
+#end 14 normals 
+
+#begin 42 faces
+o Cube_Cube:001
+usemtl None
+s off
+f 33/33/1 2/2/1 4/4/1 34/34/1 
+f 34/49/2 4/57/2 8/8/2 35/35/2 
+f 35/60/3 8/58/3 6/6/3 36/36/3 
+f 36/54/4 6/63/4 2/47/4 33/53/4 
+f 3/3/5 7/7/5 5/5/5 1/1/5 
+f 8/59/6 4/56/6 2/48/6 6/62/6 
+f 25/25/4 12/12/4 9/9/4 32/32/4 
+f 21/21/7 11/11/7 12/74/7 25/85/7 
+f 17/17/2 10/10/2 11/75/2 21/88/2 
+f 32/84/8 9/82/8 10/76/8 17/83/8 
+f 12/12/4 16/16/4 13/13/4 9/9/4 
+f 11/11/3 15/15/3 16/64/3 12/74/3 
+f 10/10/2 14/14/2 15/66/2 11/75/2 
+f 9/82/1 13/81/1 14/77/1 10/76/1 
+f 1/106/9 29/29/9 20/20/9 3/103/9 
+f 29/29/10 30/30/10 19/19/10 20/20/10 
+f 30/30/1 31/31/1 18/18/1 19/19/1 
+f 31/31/11 32/84/11 17/83/11 18/18/11 
+f 3/104/2 20/94/2 24/24/2 7/101/2 
+f 20/94/2 19/92/2 23/23/2 24/24/2 
+f 19/92/2 18/90/2 22/22/2 23/23/2 
+f 18/90/2 17/17/2 21/88/2 22/22/2 
+f 7/102/12 24/98/12 28/28/12 5/99/12 
+f 24/98/13 23/91/13 27/27/13 28/28/13 
+f 23/91/3 22/89/3 26/26/3 27/27/3 
+f 22/89/14 21/21/14 25/85/14 26/26/14 
+f 5/100/4 28/97/4 29/95/4 1/105/4 
+f 28/97/4 27/96/4 30/93/4 29/95/4 
+f 27/96/4 26/87/4 31/86/4 30/93/4 
+f 26/87/4 25/25/4 32/32/4 31/86/4 
+f 16/16/4 36/54/4 33/53/4 13/13/4 
+f 33/52/6 34/51/6 37/37/6 44/44/6 
+f 14/14/2 34/49/2 35/35/2 15/66/2 
+f 16/65/5 15/67/5 40/40/5 42/42/5 
+f 40/68/3 39/39/3 41/41/3 42/45/3 
+f 43/43/1 44/111/1 37/113/1 38/38/1 
+f 36/54/4 16/16/4 42/46/4 41/72/4 
+f 35/61/6 36/55/6 41/73/6 39/71/6 
+f 34/50/2 14/78/2 38/107/2 37/114/2 
+f 15/66/2 35/35/2 39/70/2 40/69/2 
+f 13/13/4 33/53/4 44/112/4 43/109/4 
+f 14/79/5 13/80/5 43/110/5 38/108/5 
+#end 42 faces
+
+#begin properties
+#ZOMPROPERTIES_02 table {Mesh table {IslandsUVW table {0 table {TopoStable table {Selected bool false Visible bool false } } 1 table {TopoStable table {Selected bool false Visible bool false } } 2 table {TopoStable table {Selected bool false Visible bool false } } 3 table {TopoStable table {Selected bool false Visible bool false } } 4 table {TopoStable table {Selected bool false Visible bool false } } 5 table {TopoStable table {Selected bool false Visible bool false } } 6 table {TopoStable table {Selected bool false Visible bool false } } 7 table {TopoStable table {Selected bool false Visible bool false } } 8 table {TopoStable table {Selected bool false Visible bool false } } 9 table {TopoStable table {Selected bool false Visible bool false } } 10 table {TopoStable table {Selected bool false Visible bool false } } 11 table {TopoStable table {Selected bool false Visible bool false } } 12 table {TopoStable table {Selected bool false Visible bool false } } 13 table {TopoStable table {Selected bool false Visible bool false } } 14 table {TopoStable table {Selected bool false Visible bool false } } } SymPlane table {Point vector3d 0 0 0 Normal vector3d 1 0 0 Threshold double 0.01 Enabled bool false EdgeID int -1 SymEdgeID int -1 UPos double 0.5 LocalMode bool false } RootGroup CSubMeshGroup {Children table {Tile_0_0 CSubMeshGroup {Children table {} IslandIDs ints { 1 5 0 2 3 4 6 7 8 9 10 11 12 13 14 } BBoxUV box3d 0 0 0 0 0 0 BBox3D box3d 0 0 0 0 0 0 AreaUV double 0 Area3D double 0 IsRoot bool false TopoStable table {Selected bool false Box box3d 0 1 0 1 0 1 U int 0 V int 0 NU int 0 NV int 0 Tiling vector3d 1 1 1 TileRatioMode string "1:1" } IsTile bool true } } IslandIDs ints { } BBoxUV box3d 0 0 0 0 0 0 BBox3D box3d 0 0 0 0 0 0 AreaUV double 0 Area3D double 0 IsRoot bool true TopoStable table {Selected bool false Box box3d 0 1 0 1 0 1 U int 0 V int 0 NU int 1 NV int 1 Tiling vector3d 1 1 1 TileRatioMode string "1:1" Pack table {Rotate table {Mode int 2 Min double 0 Max double 180 Step double 0 } SpacingSize double 0.00390625 MarginSize double 0.001953125 Resolution int 200 Scaling table {Mode int 0 } LayoutScalingMode int 2 MaxMutations int 1 } } IsTile bool false } Maps table {Density table {PrimType string "Polygon" Size int 1 DefaultValue double 1 ScaleType string "Log" MinValue double 0.1 MaxValue double 4 Data doubles { r 42 1 } } Pin table {PrimType string "Vertex" Size int 1 DefaultValue double 0 ScaleType string "Normalized" MinValue double 0 MaxValue double 1 Data doubles { r 114 0 } } Protect table {PrimType string "Vertex" Size int 1 DefaultValue double 0 ScaleType string "Normalized" MinValue double -1 MaxValue double 1 Data doubles { r 114 0 } } } } }
+#end properties
+
+#begin 0 fatal error vertex (that RizomUV cannot handle)
+#end 0 fatal error vertex (that RizomUV cannot handle)
+
+#begin 0 error vertex
+#end 0 error vertex
